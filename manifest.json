@@ -3,6 +3,12 @@
   "name": "HFSizeCalc",
   "version": "1.0",
   "description": "This extension offers a user-friendly summary of the total weight size for Hugging Face repository models.",
+  "permissions": [
+   "declarativeContent", "activeTab", "scripting"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
     "content_scripts": [
     {
       "js": ["scripts/content.js"],
