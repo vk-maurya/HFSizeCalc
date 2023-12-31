@@ -12,6 +12,8 @@ HFSizeCalc is a browser extension that provides users with an easily digestible 
 5. In the file dialog that appears, select the `HFSizeCalc` folder (the root folder of this repository) that you cloned or extracted earlier. Then, click "Select Folder."
 6. HFSizeCalc extension will be added to your Chrome browser as an unpacked extension.
 
+![image](https://github.com/vk-maurya/HFSizeCalc/assets/33961671/e15c1347-0194-4b17-8c52-4fc8fc2092fb)
+
 
 ## How to Use
 
