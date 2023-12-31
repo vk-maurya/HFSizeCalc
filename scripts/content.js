@@ -35,9 +35,9 @@ async function clickLoadMoreButton() {
       loadMoreButton.click();
       await new Promise(resolve => setTimeout(resolve, 100)); // Wait for 100 milliseconds
       await clickLoadMoreButton(); // Click again after waiting
-    } else {
-      console.log("No more 'Load More' buttons found.");
-    }
+    // } else {
+    //   // console.log("No more 'Load More' buttons found.");
+    // }
   }
   
   async function main() {
